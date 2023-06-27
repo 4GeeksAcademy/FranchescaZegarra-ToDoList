@@ -17,3 +17,6 @@ body{
     background-color: white;
     padding: 10px;
 }
+.hide{
+    display: none;
+}
